@@ -99,7 +99,7 @@ namespace GetAllPrimesFromValue
         static void Main(string[] args)
         {
             // Show program information
-            Console.WriteLine("Program made by Azzy, compilation date {0}{1}.", 
+            Console.WriteLine("Program made by Azzy, compilation date {0}.{1}", 
                 DateTime.Now.ToString(), Environment.NewLine);
 
             var value = 0;
